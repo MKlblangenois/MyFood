@@ -10,3 +10,7 @@ With Gatsby, I usually use WordPress has a headless CMS. So, in first time, I'll
 To use an atomic design system, I'll add Storybook to my React app.
 
 ## Feel free to use it !
+
+### Demo
+Storybook : [https://docs-myfood.netlify.com/](https://docs-myfood.netlify.com/)
+React App : [https://myfood.loganblangenois.now.sh/](https://myfood.loganblangenois.now.sh/)
